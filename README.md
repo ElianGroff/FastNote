@@ -1,5 +1,7 @@
 # smpl.
 
+<img width="611" height="27" alt="image" src="https://github.com/user-attachments/assets/4ff5b56a-f635-4ee0-9b2e-823dcdc4f6ea" />
+
 beautiful ultra-minimalist note app.
 
 https://youtu.be/mQ8dJ4NTqGA
